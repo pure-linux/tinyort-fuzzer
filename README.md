@@ -10,8 +10,7 @@
   </p>
 </div>
 
-# tinyortfuzzer
-Fuzzer for the TIO container runtime.
+WIP
 
 ---
 
